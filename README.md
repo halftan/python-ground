@@ -4,7 +4,8 @@
 
 TODO:
 * Sanitize the code user submitted
-* Fit in rails framework
+* Build a Rails app
+* Embed [Ace](http://ace.ajax.org/) editor
 * And a lot
 
 DONE:
